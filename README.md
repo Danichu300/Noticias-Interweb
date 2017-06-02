@@ -1,1 +1,25 @@
 # Noticias-Interweb
+
+- Se han creado los row para contener todas las noticias, además del contenedor principal y el resto de elementos de Bootstrap.
+- Se ha añadido el escrito de las noticias y se ha colocado de forma leíble y entendible.
+- Se ha añadido las imágenes de las noticias.
+- Con CSS se ha perfeccionado la visualización de las notícias.
+- Se ha añadido un cabezal a la página con 3 enlaces que se implementarán en un futuro.
+- Se ha añadido un pie de página.
+- Se ha creado el diseño para ver la información de la primera noticia.
+- Con CSS se ha perfeccionado la visualización de la primera noticia.
+- Se ha creado el diseño para ver la información de la segunda noticia.
+- Con CSS se ha perfeccionado la visualización de la segunda noticia.
+- Se ha añadido un cabezal y un pie de página a las dos primeras noticias.
+- Se ha establecido un enlace que une la primera noticia con su visualización y la segunda con la suya.
+- Se ha creado el documento rss.xml.
+- Se ha creado el documento pack1.json y pack2.json.
+- Se ha implementado han creado el resto de noticias en la página principal para mostrarlas posteriormente.
+- Se han añadido dos botones de cargar más noticias.
+- Con el botón de cargar más noticias se muestran más noticias.
+- Se ha implementado la publicidad para escritorio.
+- Se ha colocado correctamente la publicidad con CSS.
+- Se ha añadido un link a la publicidad.
+- Se ha implementado la publicidad para el móvil.
+- Se ha colocado correctamente la publicidad con CSS.
+- Se han implementado las etiquetas meta.
