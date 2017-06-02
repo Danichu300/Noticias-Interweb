@@ -2,21 +2,21 @@
 <rss version="2.0">
 <channel>
 <title>Noticias Interweb</title>
-<link>https://github.com/Danichu300/Noticias-Interweb/blob/master/Noticias_Interweb_clase/pagina_principal/index.html</link>
+<link>https://rawgit.com/Danichu300/Noticias-Interweb/master/Noticias_Interweb_clase/pagina_principal/index.html</link>
 <description>Todo Internet en una página</description>
 <item>
  <title>Primer Congreso Internacional en Málaga</title>
-  <link>https://github.com/Danichu300/Noticias-Interweb/blob/master/Noticias_Interweb_clase/pagina_principal/noticias/noticia1.html</link>
+  <link>https://rawgit.com/Danichu300/Noticias-Interweb/master/Noticias_Interweb_clase/pagina_principal/noticias/noticia1.html</link>
    <description>Inauguración del Primer Congreso Internacional en Málaga</description>
 </item>
 <item>
  <title>Incompetencia en la Educación Primaria</title>
-  <link>https://github.com/Danichu300/Noticias-Interweb/blob/master/Noticias_Interweb_clase/pagina_principal/noticias/noticia2.html</link>
+  <link>https://rawgit.com/Danichu300/Noticias-Interweb/master/Noticias_Interweb_clase/pagina_principal/noticias/noticia2.html</link>
    <description>Hay cierta incompetencia en la EP debido a sinergias entre profesionales</description>
 </item>
 <item>
  <title>Gran Reconocimiento para la INA</title>
-  <link>https://github.com/Danichu300/Noticias-Interweb/blob/master/Noticias_Interweb_clase/pagina_principal/noticias/noticia2.html</link>
+  <link>https://rawgit.com/Danichu300/Noticias-Interweb/master/Noticias_Interweb_clase/pagina_principal/noticias/noticia2.html</link>
    <description>Novedades en el Instituto de Nanociencia de Aragón</description>
 </item>
 </channel>
