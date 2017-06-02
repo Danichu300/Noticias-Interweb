@@ -1,0 +1,26 @@
+
+
+body {
+    padding-top: 70px; 
+}
+
+footer {
+    margin: 50px 0;
+}
+
+div#cargarinfo:hover {
+    opacity: 0.7;
+    /* pointer-events: painted; */
+    cursor: crosshair;
+}
+
+@media screen and (max-width: 700px) {
+    #banner {
+        position: fixed;
+		bottom: 0px;
+		right: 0;
+		width: auto;
+		height: auto;
+		top: auto;
+    }
+}
