@@ -2,11 +2,11 @@
 { 
 "title":"Nueva Ley para proteger el medio ambiente", 
 "description":"GreenPeace ha decretado una nueva Ley para cuidar el ecosistema. Ahora ensuciar el medio puede conllevar a sanciones del tipo de multas cuyos cargos ascienden a los 600€. Las autoridades instalarán diferentes facilidades como colocar más papeleras y sitios de reciclaje para ayudar a esta causa.", 
-"imagen:img/imagen_noticia4.jpg" }
+"imagen":"img/imagen_noticia4.jpg" }
 ,{ 
 "title":"Novedades de la sexta temporada de Juego de Tronos", 
-"description":"La sexta temporada de Juego de Tronos significará un antes y un después en la historia de esta serie, y ya no solo porque es la primera que no está basada en ningún libro publicado por George R. R. Martin (más que nada porque no se ha publicado aún) si no porque viene precedida de comentarios que la ensalzan como la mejor temporada de la serie, Dan Weiis y David Benioff, los showrunners declararon: “No hay ningún capítulo flojo”."
-,"imagen:img/imagen_noticia5.jpg" }
+"description":"La sexta temporada de Juego de Tronos significará un antes y un después en la historia de esta serie, y ya no solo porque es la primera que no está basada en ningún libro publicado por George R. R. Martin (más que nada porque no se ha publicado aún) si no porque viene precedida de comentarios que la ensalzan como la mejor temporada de la serie, Dan Weiis y David Benioff, los showrunners declararon: “No hay ningún capítulo flojo”.",
+,"imagen":"img/imagen_noticia5.jpg" }
 ,{ "title":"Sorteo: Magic",
-"description":"En este concurso podéis ganar un viaje pagado a donde queráis durante 2 días. Para participar tenéis que entrar en la página oficial de Facebook de Magic y ahí rellenar el formulario con vuestros datos. ¡Y ya estaréis listos!" 
-"imagen:img/imagen_noticia6.jpg" }]
+"description":"En este concurso podéis ganar un viaje pagado a donde queráis durante 2 días. Para participar tenéis que entrar en la página oficial de Facebook de Magic y ahí rellenar el formulario con vuestros datos. ¡Y ya estaréis listos!", 
+"imagen":"img/imagen_noticia6.jpg" }]
