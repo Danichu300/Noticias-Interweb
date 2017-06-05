@@ -14,7 +14,7 @@ $(function () {
             cargarNews();
         }
     });
-    $('#botoncargar').click(function () {
+    $('#cargarmas').click(function () {
         cargarNews();
     });
 });
