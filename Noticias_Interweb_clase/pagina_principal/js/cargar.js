@@ -3,10 +3,10 @@ var data2 = null;
 var cargar = 0;
 
 $(function () {
-    $.getJSON("data/pack1.json", function (jsonObject1) {
+    $.getJSON("https://rawgit.com/Danichu300/Noticias-Interweb/JSON/Noticias_Interweb_clase/pagina_principal/data/pack1.json", function (jsonObject1) {
         data1 = jsonObject1;
     });
-    $.getJSON("data/pack2.json", function (jsonObject2) {
+    $.getJSON("https://rawgit.com/Danichu300/Noticias-Interweb/JSON/Noticias_Interweb_clase/pagina_principal/data/pack2.json", function (jsonObject2) {
         data2 = jsonObject2;
     });
         $(window).scroll(function(){
