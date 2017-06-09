@@ -29,7 +29,7 @@ function cargarNews() {
     if (cargar === 1) {
         ponerPadre(data2);
         cargar++;
-        $('#boton').hide();
+        $('#cargarmas').hide();
     } else {
         if (cargar === 0) {
             ponerPadre(data1);
