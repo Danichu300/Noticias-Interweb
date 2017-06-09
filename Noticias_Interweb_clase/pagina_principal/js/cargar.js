@@ -26,14 +26,13 @@ function ponerPadre(json) {
 }
 
 function cargarNews() {
-    if (cargar === 1) {
-        ponerPadre(data2);
+    if (cargar === 0) {
+        ponerPadre(data1);
         cargar++;
-        $('#cargarmas').hide();
     } else {
-        if (cargar === 0) {
-            ponerPadre(data1);
-            cargar++;
+        if (cargar === 1) {
+            ponerPadre(data2);            
+        $('#cargarmas').hide();
         }
     }
 }
