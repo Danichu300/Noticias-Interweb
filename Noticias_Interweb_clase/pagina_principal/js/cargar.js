@@ -21,7 +21,7 @@ $(function () {
 
 function ponerPadre(json) {
     $.each(json, function (i, pack1) {
-        $('#masnoticias').append($("<div class='col-sm-12'><br><img id='min-pic' src='" + pack1.imagen + "' align='left'><p id='titulo'>" + pack1.title + "</p><br><p id='noticia' >" + pack1.description + "</p></div>"));
+        $('#masnoticias').append($("<div class="row"><div class='col-md-5'><br><img id='min-pic' src='" + pack1.imagen + "' align='left'><p id='titulo'>" + pack1.title + "</p><br><p id='noticia' >" + pack1.description + "</p></div></div>"));
     });
 }
 
